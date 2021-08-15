@@ -8,12 +8,12 @@ export const QuestionData = [
     answer: "B",
   },
   {
-    question: "What is your favorate food ?",
-    optionA: "veg",
-    optionB: "non-veg",
-    optionC: "soups",
-    optionD: "sea-food",
-    answer: "A",
+    question: "Which is scripting language ?",
+    optionA: "java",
+    optionB: "python",
+    optionC: ".Net",
+    optionD: "javaScript",
+    answer: "D",
   },
   {
     question: "What is javaScript ?",
