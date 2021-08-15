@@ -1,3 +1,6 @@
+#Here link for output of the project
+https://react-quize-demo-39a4c2.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
