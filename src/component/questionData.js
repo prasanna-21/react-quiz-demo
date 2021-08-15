@@ -23,4 +23,12 @@ export const QuestionData = [
     optionD: "language",
     answer: "D",
   },
+  {
+    question: "who developed the react js ?",
+    optionA: "facebook",
+    optionB: "google",
+    optionC: "youtube",
+    optionD: "gmail",
+    answer: "A",
+  },
 ];
